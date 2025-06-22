@@ -6,7 +6,7 @@ library(readxl)
 library(DT)
 library(plotly)
 library(ggimage)
-
+library(magick)
 
 ### Partie 1 : Chargement des données du championnat 
 

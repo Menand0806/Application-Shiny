@@ -1984,7 +1984,7 @@
         "Maintainer": "Jeroen Ooms <jeroenooms@gmail.com>",
         "Repository": "CRAN",
         "Date/Publication": "2025-06-06 15:10:01 UTC",
-        "Built": "R 4.4.3; x86_64-w64-mingw32; 2025-06-18 01:08:29 UTC; windows",
+        "Built": "R 4.4.3; x86_64-w64-mingw32; 2025-06-21 00:31:44 UTC; windows",
         "Archs": "x64"
       }
     },
@@ -3607,7 +3607,7 @@
   },
   "files": {
     "app.R": {
-      "checksum": "bb2000eea46f171d892745daee9bad1c"
+      "checksum": "ad68ac77c262408fdea9bd3b45bf3957"
     },
     "Rapport_Competition_ProD2_2024-2025.xlsx": {
       "checksum": "7fcf5d7e74f45c6cda6c6748952b8efb"
